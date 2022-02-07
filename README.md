@@ -1,4 +1,4 @@
-<p> <img align ="center" alt = "gif" src="https://github.com/DarshanSahay/DarshanSahay/blob/main/gifs/portgus-d-ace-ace.gif" width="500" height="320" /></p>
+<p> <img align ="center" alt = "gif" src="https://github.com/DarshanSahay/DarshanSahay/blob/main/gifs/portgus-d-ace-ace.gif" width="800" height="600" /></p>
 
 - 👋 Hi, I’m @DarshanSahay
 - 👀 I’m interested in VR Dive
