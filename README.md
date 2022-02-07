@@ -1,9 +1,14 @@
-<p> <img align ="center" alt = "gif" src="https://github.com/DarshanSahay/DarshanSahay/blob/main/gifs/portgus-d-ace-ace.gif" width="400" height="300" /></p>
+# **👋 HELLO**
+<p><img align ="centre" alt = "gif" src="https://github.com/DarshanSahay/DarshanSahay/blob/main/gifs/portgus-d-ace-ace.gif" width="400" height="300" /></p>
 
-- 👋 Hi, I’m @DarshanSahay
-- 👀 I’m interested in VR Dive
-- 🌱 I’m currently learning Game Developement
-- 📫 How to reach me - 
+- I’m Darshan Sahay.
+- I am a Game Developer.
+- I have a keen interest in Game Development and VR industry.
+- I also have interest in watching Animes.
+- My Dream is to create my own fully function Virtual Reality Dive.
+- How to reach me - 
+   [LinkedIn](https://www.linkedin.com/in/darshan-sahay-215a16215/)
+   
 
 <!---
 DarshanSahay/DarshanSahay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
