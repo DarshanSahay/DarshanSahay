@@ -1,5 +1,5 @@
-![](https://github.com/DarshanSahay/DarshanSahay/tree/main/gifs)
-![Alt Text](https://github.com/DarshanSahay/DarshanSahay/tree/main/gifs.gif)
+<p> <img align ="center" alt = "gif" src="https://github.com/DarshanSahay/DarshanSahay/tree/main/gifs" width="500" height="320" /></p>
+
 - 👋 Hi, I’m @DarshanSahay
 - 👀 I’m interested in VR Dive
 - 🌱 I’m currently learning Game Developement
